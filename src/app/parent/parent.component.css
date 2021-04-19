@@ -1,0 +1,15 @@
+.container {
+    margin-top: 100px;
+    display: flex;
+    justify-content: center;
+    background-color: rgb(186, 199, 195);
+    flex-direction: column;
+    border-radius: 30px;
+    width: 650px;
+}
+
+.container h1 {
+    text-align: center;
+    margin: 0;
+    padding: 20px 0 40px 0;
+}

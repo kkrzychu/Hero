@@ -1,0 +1,22 @@
+[
+  {
+    "name": "Spider-Man",
+    "ability": "wall-crawling"
+  },
+  {
+    "name": "Superman",
+    "ability": "fly"
+  },
+  {
+    "name": "Batman",
+    "ability": "money"
+  },
+  {
+    "name": "Iron Man",
+    "ability": "knowledge"
+  },
+  {
+    "name": "Capitan America",
+    "ability": "shield"
+  }
+]
